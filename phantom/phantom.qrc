@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Phantom">
+        <file>Resources/stylesheet.qss</file>
+    </qresource>
+</RCC>
